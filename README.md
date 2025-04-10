@@ -1,9 +1,9 @@
 ## wagwan, I'm axel.
 
-📚 Information Technology at GMU </br> 
-🧠 Cloud Computing Concentration </br>
+📚 information technology at GMU </br> 
+🧠 cloud computing concentration </br>
 🪛 I utilize different Cloud Services (specifically AWS) to create applications, policies and more </br>
-🔩 Web App Developer </br>
+🔩 web app developer </br>
 
 
 ## 🌐 Socials:
